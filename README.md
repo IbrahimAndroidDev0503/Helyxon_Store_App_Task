@@ -42,6 +42,7 @@ Clicking on a product should display detailed information (image, description, p
 The search functionality should allow searching for products by name.
 Sorting by price should reorder the list of products accordingly.
 The order functionality should display a Toast message confirming the order.
+
 Tech Stack
 Language: Kotlin
 Architecture: MVVM (Model-View-ViewModel)
